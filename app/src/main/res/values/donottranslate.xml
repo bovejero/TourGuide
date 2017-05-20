@@ -6,9 +6,9 @@
     <string name="scientific_tree_alcornoque">Quercus suber</string>
     <string name="scientific_mushroom_matamoscas">Amanita muscaria</string>
     <string name="scientific_mushroom_hongo_blanco">Boletus edulis</string>
-    <string name="scientific_mushroom_nicalo">Lactarius_deliciosus</string>
+    <string name="scientific_mushroom_nicalo">Lactarius deliciosus</string>
     <string name="scientific_mushroom_pie_azul">Lepista nuda</string>
-    <string name="scientific_mushroom_entoloma">Entoloma_sinuatum</string>
+    <string name="scientific_mushroom_entoloma">Entoloma sinuatum</string>
     <string name="scientific_flora_acebo">Ilex aquifolium</string>
     <string name="scientific_flora_grasilla">Pinguicola grandiflora</string>
     <string name="scientific_flora_mostajo">Sorbus aria</string>
@@ -20,7 +20,6 @@
     <string name="scientific_fauna_corzo">Capreolus capreolus</string>
     <string name="scientific_fauna_lagarto_verdinegro">Lacerta schreiberi</string>
 
-
-    </resources>
+</resources>
 
 

@@ -7,36 +7,30 @@ package com.example.android.tourguide;
  */
 public class Word {
 
-    /** String resource ID for the default translation of the word */
-    private int mCommonNameId;
-
-    /** String resource ID for the Miwok translation of the word */
-    private int mScientificNameId;
-
-        /** Image resource ID for the word */
-        private int mImageResourceId = NO_IMAGE_PROVIDED;
-    /** Constant value that represents no image was provided for this word */
+    /**
+     * Constant value that represents no image was provided for this word
+     */
     private static final int NO_IMAGE_PROVIDED = -1;
-
+    /**
+     * String resource ID for the default translation of the word
+     */
+    private int mCommonNameId;
+    /**
+     * String resource ID for the Miwok translation of the word
+     */
+    private int mScientificNameId;
+    /**
+     * Image resource ID for the word
+     */
+    private int mImageResourceId = NO_IMAGE_PROVIDED;
 
     /**
      * Create a new Word object.
      *
-     * @param CommonNameId is the string resource ID for the word in a language that the
-     *                             user is already familiar with (such as English)
+     * @param CommonNameId     is the string resource ID for the word in a language that the
+     *                         user is already familiar with (such as English)
      * @param ScientificNameId is the string resource Id for the word in the Miwok language
-     */
-    public Word(int CommonNameId, int ScientificNameId) {
-        mCommonNameId = CommonNameId;
-        mScientificNameId = ScientificNameId;
-    }
-
-    /**
-     * Create a new Word object.
-     * @param CommonNameId is the string resource ID for the word in a language that the
-     *                             user is already familiar with (such as English)
-     * @param ScientificNameId is the string resource Id for the word in the Miwok language
-     * @param imageResourceId is the drawable resource ID for the image associated with the word
+     * @param imageResourceId  is the drawable resource ID for the image associated with the word
      */
     public Word(int CommonNameId, int ScientificNameId, int imageResourceId) {
         mCommonNameId = CommonNameId;
@@ -71,4 +65,4 @@ public class Word {
     public boolean hasImage() {
         return mImageResourceId != NO_IMAGE_PROVIDED;
     }
- }
+}

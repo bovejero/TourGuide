@@ -52,7 +52,7 @@ public class TreesFragment extends Fragment {
         // {@link ListView} will display list items for each {@link Word} in the list.
         listView.setAdapter(adapter);
 
-               return rootView;
+        return rootView;
     }
 
 

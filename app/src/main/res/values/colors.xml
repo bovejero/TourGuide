@@ -7,17 +7,17 @@
     <color name="primary_dark_color">#3e2723</color>
 
     <!-- Background color for app -->
-    <color name="tan_background">#e8f5e9</color>
+    <color name="tan_background">#00c853</color>
 
-    <!-- Background color for the numbers category -->
-    <color name="category_trees">#a1887f</color>
+    <!-- Background color for the trees category -->
+    <color name="category_trees">#FFB74D</color>
 
-    <!-- Background color for the family members category -->
+    <!-- Background color for the fauna members category -->
     <color name="category_fauna">#fff176</color>
 
-    <!-- Background color for the colors category -->
+    <!-- Background color for the flora category -->
     <color name="category_flora">#f06292</color>
 
-    <!-- Background color for the phrases category -->
+    <!-- Background color for the mushrooms category -->
     <color name="category_mushrooms">#4dd0e1</color>
 </resources>

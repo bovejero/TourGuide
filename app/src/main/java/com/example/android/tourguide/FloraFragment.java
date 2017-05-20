@@ -25,14 +25,14 @@ public class FloraFragment extends Fragment {
                              Bundle savedInstanceState) {
         View rootView = inflater.inflate(R.layout.word_list, container, false);
 
-                // Create a list of words
+        // Create a list of words
         final ArrayList<Word> words = new ArrayList<Word>();
         words.add(new Word(R.string.common_flora_acebo, R.string.scientific_flora_acebo, R.drawable.flora_acebo));
         words.add(new Word(R.string.common_flora_grasilla, R.string.scientific_flora_grasilla, R.drawable.flora_grasilla));
         words.add(new Word(R.string.common_flora_mostajo, R.string.scientific_flora_mostajo, R.drawable.flora_mostajo));
         words.add(new Word(R.string.common_flora_verdegambre, R.string.scientific_flora_verdegambre, R.drawable.flora_verdegambre));
         words.add(new Word(R.string.common_flora_mundillo, R.string.scientific_flora_mundillo, R.drawable.flora_mundillo));
-        
+
         // Create an {@link WordAdapter}, whose data source is a list of {@link Word}s. The
         // adapter knows how to create list items for each item in the list.
         WordAdapter adapter = new WordAdapter(getActivity(), words, R.color.category_flora);
@@ -50,6 +50,6 @@ public class FloraFragment extends Fragment {
         return rootView;
     }
 
-    }
+}
 
 

@@ -15,7 +15,6 @@ import java.util.ArrayList;
 public class FaunaFragment extends Fragment {
 
 
-
     public FaunaFragment() {
         // Required empty public constructor
     }
@@ -25,7 +24,7 @@ public class FaunaFragment extends Fragment {
                              Bundle savedInstanceState) {
         View rootView = inflater.inflate(R.layout.word_list, container, false);
 
-               // Create a list of words
+        // Create a list of words
         final ArrayList<Word> words = new ArrayList<Word>();
         words.add(new Word(R.string.common_fauna_buitre_negro, R.string.scientific_fauna_buitre_negro, R.drawable.fauna_buitre_negro));
         words.add(new Word(R.string.common_fauna_aguila_imperial, R.string.scientific_fauna_aguila_imperial, R.drawable.fauna_aguila_imperial_iberica));
@@ -46,7 +45,7 @@ public class FaunaFragment extends Fragment {
         // {@link ListView} will display list items for each {@link Word} in the list.
         listView.setAdapter(adapter);
 
-                return rootView;
-            }
+        return rootView;
+    }
 
-        }
+}

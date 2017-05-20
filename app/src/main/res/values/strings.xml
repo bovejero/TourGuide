@@ -4,6 +4,7 @@
     <string name="category_flora">Flora</string>
     <string name="category_trees">Trees</string>
     <string name="category_fauna">Fauna</string>
+    <string name="category_general">General Info</string>
     <string name="common_tree_tejo">Tejo del Arroyo de Barondillo</string>
     <string name="common_tree_nogal">Nogal de Lozoya</string>
     <string name="common_tree_rebollo">Rebollo de la Gallina</string>
@@ -24,6 +25,4 @@
     <string name="common_fauna_aguila_imperial">Aguila Imperial</string>
     <string name="common_fauna_corzo">Corzo</string>
     <string name="common_fauna_lagarto_verdinegro">Lagarto Verdinegro</string>
-
-
 </resources>
