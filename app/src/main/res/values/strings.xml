@@ -1,0 +1,29 @@
+<resources>
+    <string name="app_name">Sierra de Guadarrama Park</string>
+    <string name="category_mushrooms">Mushrooms</string>
+    <string name="category_flora">Flora</string>
+    <string name="category_trees">Trees</string>
+    <string name="category_fauna">Fauna</string>
+    <string name="common_tree_tejo">Tejo del Arroyo de Barondillo</string>
+    <string name="common_tree_nogal">Nogal de Lozoya</string>
+    <string name="common_tree_rebollo">Rebollo de la Gallina</string>
+    <string name="common_tree_enebro">Enebro de los Canalizos</string>
+    <string name="common_tree_alcornoque">Alcornoque de las Casinelas</string>
+    <string name="common_mushroom_matamoscas">Matamoscas</string>
+    <string name="common_mushroom_hongo_blanco">Hongo Blanco</string>
+    <string name="common_mushroom_nicalo">Nicalo</string>
+    <string name="common_mushroom_pie_azul">Pie Azul</string>
+    <string name="common_mushroom_entoloma">Entoloma</string>
+    <string name="common_flora_acebo">Acebo</string>
+    <string name="common_flora_grasilla">Grasilla</string>
+    <string name="common_flora_mostajo">Mostajo</string>
+    <string name="common_flora_mundillo">Mundillo</string>
+    <string name="common_flora_verdegambre">Verdegambre</string>
+    <string name="common_fauna_buitre_negro">Buitre negro</string>
+    <string name="common_fauna_acentor_alpino">Acentor alpino</string>
+    <string name="common_fauna_aguila_imperial">Aguila Imperial</string>
+    <string name="common_fauna_corzo">Corzo</string>
+    <string name="common_fauna_lagarto_verdinegro">Lagarto Verdinegro</string>
+
+
+</resources>

@@ -1,0 +1,26 @@
+<resources>
+    <string name="scientific_tree_tejo">Taxus baccata</string>
+    <string name="scientific_tree_nogal">Juglans regia</string>
+    <string name="scientific_tree_rebollo">Quercus pyrenaica</string>
+    <string name="scientific_tree_enebro">Juniperus oxycedrus</string>
+    <string name="scientific_tree_alcornoque">Quercus suber</string>
+    <string name="scientific_mushroom_matamoscas">Amanita muscaria</string>
+    <string name="scientific_mushroom_hongo_blanco">Boletus edulis</string>
+    <string name="scientific_mushroom_nicalo">Lactarius_deliciosus</string>
+    <string name="scientific_mushroom_pie_azul">Lepista nuda</string>
+    <string name="scientific_mushroom_entoloma">Entoloma_sinuatum</string>
+    <string name="scientific_flora_acebo">Ilex aquifolium</string>
+    <string name="scientific_flora_grasilla">Pinguicola grandiflora</string>
+    <string name="scientific_flora_mostajo">Sorbus aria</string>
+    <string name="scientific_flora_mundillo">Viburnum opulus</string>
+    <string name="scientific_flora_verdegambre">Veratrum album</string>
+    <string name="scientific_fauna_buitre_negro">Aegypius monachus</string>
+    <string name="scientific_fauna_acentor_alpino">Prunella collaris</string>
+    <string name="scientific_fauna_aguila_imperial">Aquila adalberti</string>
+    <string name="scientific_fauna_corzo">Capreolus capreolus</string>
+    <string name="scientific_fauna_lagarto_verdinegro">Lacerta schreiberi</string>
+
+
+    </resources>
+
+
